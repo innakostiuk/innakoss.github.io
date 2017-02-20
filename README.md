@@ -1,3 +1,1 @@
-## Welcome to GitHub Pages
-
-### This is my portfolio page
+## Welcome to my portfolio page
