@@ -6,18 +6,20 @@
 3. Homepage for Italian bar
 
 ### Resume
-** technologies used **
+_**Technologies used**_
 - HTML
 - CSS
 - JavaScript
 
 ### Responsive website
+_**Technologies used**_
 - HTML
 - CSS
 - JavaScript
 - Responsive design
 
 ## Homepage for Italian bar
+_**Technologies used**_
 - HTML
 - CSS
 - JavaScript
