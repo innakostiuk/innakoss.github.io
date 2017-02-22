@@ -11,12 +11,16 @@ _**Technologies used**_
 - CSS
 - JavaScript
 
+[_See here_] (http://innakoss.github.io/frontend-nanodegree-resume/)
+
 ### Responsive website
 _**Technologies used**_
 - HTML
 - CSS
 - JavaScript
 - Responsive design
+
+[_See here_] (https://innakoss.github.io/responsive-homeapp/)
 
 ## Homepage for Italian bar
 _**Technologies used**_
@@ -25,4 +29,6 @@ _**Technologies used**_
 - JavaScript
 - Responsive design
 - Responsive images
+
+[_See here_] (to-be-added-later)
 
