@@ -1,5 +1,5 @@
 # Welcome to Inna's portfolio page
-##**I'm a front-end engineer and UX designer**##
+##_**I'm a front-end engineer and UX designer**_##
 ## Here's list of projects that I've done
 
 1. Resume
