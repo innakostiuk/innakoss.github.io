@@ -1,5 +1,5 @@
 # Welcome to Inna's portfolio page
-## _**I'm a front-end engineer and UX designer**_ ##
+## _**I'm a front-end engineer and UX designer, who loves creating simple yet beautiul designs **_ ##
 ## Here's list of projects that I've done
 
 1. Resume
