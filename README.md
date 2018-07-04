@@ -5,6 +5,7 @@
 1. Resume
 2. Responsive website
 3. Homepage for Italian bar
+4. Landing page for international company
 
 ### Resume
 _**Technologies used**_
@@ -23,7 +24,7 @@ _**Technologies used**_
 
 [_See here_] (https://innakoss.github.io/responsive-homeapp/)
 
-## Homepage for Italian bar
+### Homepage for Italian bar
 _**Technologies used**_
 - HTML
 - CSS
@@ -33,3 +34,12 @@ _**Technologies used**_
 
 [_See here_] (https://innakoss.github.io/website-for-italian-bar/)
 
+### Landing page for international company
+_**Technologies used**_
+- HTML
+- CSS
+- JavaScript
+- Responsive design
+- Responsive images
+
+[_See here_] 
