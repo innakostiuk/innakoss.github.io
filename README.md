@@ -42,4 +42,4 @@ _**Technologies used**_
 - Responsive design
 - Responsive images
 
-[_See here_] 
+[_See here_] (https://innakoss.github.io/marketone-lp/)
