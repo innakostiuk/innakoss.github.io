@@ -6,6 +6,7 @@
 2. Responsive website
 3. Homepage for Italian bar
 4. Landing page for international company
+5. Company's product langing page
 
 ### Resume
 _**Technologies used**_
