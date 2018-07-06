@@ -43,3 +43,11 @@ _**Technologies used**_
 - Responsive images
 
 [_See here_] (https://innakoss.github.io/marketone-lp/)
+
+### Company's product langing page
+_**Technologies used**_
+- HTML
+- CSS
+- Bootstrap
+- Responsive design
+[_See here_] http://www.kakeru-kun.jp/
