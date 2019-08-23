@@ -1,6 +1,6 @@
 # Welcome to Inna's portfolio page
-## _**I'm UX designer and front-end engineer who loves creating simple yet beautiul designs**_ ##
-## Here's list of projects that I've done
+## _**I'm Front End Engineer who loves creating simple yet beautiul designs**_ ##
+## Here's list of projects that I've done as a part of my independent online courses study.
 
 1. Resume
 2. Responsive website
