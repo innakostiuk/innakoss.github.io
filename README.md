@@ -14,7 +14,7 @@ _**Technologies used**_
 - CSS
 - JavaScript
 
-[_See here_] (https://innakoss.github.io/frontend-nanodegree-resume/)
+[ See here ](https://innakoss.github.io/frontend-nanodegree-resume/)
 
 ### Responsive website
 _**Technologies used**_
@@ -23,7 +23,7 @@ _**Technologies used**_
 - JavaScript
 - Responsive design
 
-[_See here_] (https://innakoss.github.io/responsive-homeapp/)
+[_See here_](https://innakoss.github.io/responsive-homeapp/)
 
 ### Homepage for Italian bar
 _**Technologies used**_
@@ -33,7 +33,7 @@ _**Technologies used**_
 - Responsive design
 - Responsive images
 
-[_See here_] (https://innakoss.github.io/website-for-italian-bar/)
+[_See here_](https://innakoss.github.io/website-for-italian-bar/)
 
 ### Landing page for international company
 _**Technologies used**_
@@ -43,7 +43,7 @@ _**Technologies used**_
 - Responsive design
 - Responsive images
 
-[_See here_] (https://innakoss.github.io/marketone-lp/)
+[_See here_](https://innakoss.github.io/marketone-lp/)
 
 ### Company's product langing page
 _**Technologies used**_
@@ -51,4 +51,4 @@ _**Technologies used**_
 - CSS
 - Bootstrap
 - Responsive design
-[_See here_] http://www.kakeru-kun.jp/
+[_See here_]http://www.kakeru-kun.jp/
