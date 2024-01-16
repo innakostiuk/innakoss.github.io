@@ -1,5 +1,5 @@
 # Welcome to Inna's portfolio page
-## _**I'm Front End Engineer who loves creating simple yet beautiul designs**_ ##
+## _**Front End Engineer who loves creating simple yet beautiul designs**_ ##
 ## Here's list of projects that I've done. 
 
 1. Resume
